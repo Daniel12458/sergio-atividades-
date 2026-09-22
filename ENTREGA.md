@@ -1,4 +1,4 @@
-Aqui tens apenas a estrutura funcional em código limpo, dividida entre as classes Java e o script SQL.
+
 
 ---
 
